@@ -10,8 +10,8 @@ This Python project aims to automate various cybersecurity tasks to enhance secu
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Log analysis](#Loganalysis)
+- [Threat Intelligence Integration](#ThreatIntelligenceIntegration)
 
 ## Features
 
