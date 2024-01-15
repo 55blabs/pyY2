@@ -36,3 +36,39 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/cybersecurity-automation.git
+
+2. Create a Virtual Environment (optional but recommended)
+   python -m venv venv
+
+   -On linux/Mac
+   Activate the Venv
+   source venv/bin/activate
+
+   -On windows
+   .\venv\Scripts\activate
+
+3. Install dependenices
+
+   pip install -r requirements.txt
+
+# Usage
+
+   Using the Cybersecurity Automation scripts, Follow the instructions below
+
+# Log analysis
+
+1. Navigate to the 'log-analysis' directory
+2. Run the log analysis script
+
+   python analyze_logs.py
+3. Follow the on screen prompts to provide input or customize the script.
+
+# Threat Intelligence Integration 
+
+1. Navigate to the 'threat-intelligence' directory
+2. Run the threat intelligence script:
+
+   python threat_intelligence.py
+3. Customize the script to define incident response actions and alerts
+   
+   
